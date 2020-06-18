@@ -1,0 +1,10 @@
+.DS_Store
+# Ignore other map files
+*.dat
+*.id
+*.map
+*.tab
+
+# We mostly need the ESRI Shapefile files
+# *.shp
+# *.dbf
